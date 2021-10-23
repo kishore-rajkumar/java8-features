@@ -31,8 +31,16 @@ Post Java 8: You can use lambda expression instead of anonymous inner classes.
 
 **Pre & Post java 8 examples**
 
-1) Pre java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java**<br/>
-2) Post java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java**
+1) Pre java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java** class<br/>
+2) Post java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java** class
+
+**Lambda examples with no,single and multiple parameters**
+
+1) Look at java8.features.lambda.**LambdaExampleWithParameters.java** class
+
+**Lambda examples of iterating collections with forEach**
+
+1) Look at java8.features.lambda.**LambdaExampleWithIteratingCollection.java** class
 
 
  
