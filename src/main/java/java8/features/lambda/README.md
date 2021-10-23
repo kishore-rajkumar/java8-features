@@ -29,10 +29,9 @@ Pre Java 8: We create anonymous inner classes.<br/>
 Post Java 8: You can use lambda expression instead of anonymous inner classes.
 
 
-Examples
-========
+**Pre & Post java 8 examples**
 
-1) Pre java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java**
+1) Pre java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java**<br/>
 2) Post java8 : Look at java8.features.lambda.**PriorJava8ButtonListener.java**
 
 
