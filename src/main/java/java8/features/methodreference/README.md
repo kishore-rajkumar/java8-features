@@ -1,4 +1,4 @@
-## 1. Method References 
+## Method References 
 
 Method reference is a shorthand notation of a lambda expression to call a method. For example:
 If your lambda expression is like this:
