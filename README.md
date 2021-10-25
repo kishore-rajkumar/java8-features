@@ -19,3 +19,9 @@ then you can replace it with a method reference like this:
 System.out::println
 
 The :: operator is used in method reference to separate the class or object from the method name.
+
+
+## 3. Functional Interface
+
+An interface with only single abstract method is called functional interface.<br/>
+You can either use the predefined functional interface provided by Java or create your own functional interface and use it. 
