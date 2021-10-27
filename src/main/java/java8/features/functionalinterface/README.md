@@ -24,7 +24,7 @@ Examples
 
 **2. Using predefined functional interface** : <br/><br/>Look at  
 	
-	java8.features.methodreference.UsingPredefinedFunctionalInterfaceClass.java
+	java8.features.functionalinterface.UsingPredefinedFunctionalInterfaceClass.java
 	
 Functional Interface: Using anonymous inner class vs using lambda expression
 ============================================================================

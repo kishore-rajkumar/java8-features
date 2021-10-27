@@ -23,5 +23,17 @@ The :: operator is used in method reference to separate the class or object from
 
 ## 3. Functional Interface
 
-An interface with only single abstract method is called functional interface.<br/>
+An interface with only single abstract method is called functional interface.
+
 You can either use the predefined functional interface provided by Java or create your own functional interface and use it. 
+
+
+## 4. Interface Changes – default method and static method
+
+
+Prior to java 8, interface in java can only have abstract methods. All the methods of interfaces are public & abstract by default. 
+
+Java 8 allows the interfaces to have default and static methods. 
+
+The reason we have default methods in interfaces is to allow the developers to add new methods to the interfaces without affecting the classes that implements these interfaces.
+
