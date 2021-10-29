@@ -37,3 +37,13 @@ Java 8 allows the interfaces to have default and static methods.
 
 The reason we have default methods in interfaces is to allow the developers to add new methods to the interfaces without affecting the classes that implements these interfaces.
 
+
+## 5. Stream
+
+Stream API is another new feature of java 8. All the classes and interfaces of this API is in the **java.util.stream package**.
+
+By using streams we can perform various **aggregate operations** on the data returned from **collections, arrays, Input/Output** operations. 
+
+
+
+
