@@ -1,6 +1,6 @@
 ## Stream
 
-MStream API is another new feature of java 8. All the classes and interfaces of this API is in the **java.util.stream package**.
+Stream API is another new feature of java 8. All the classes and interfaces of this API is in the **java.util.stream package**.
 
 By using streams we can perform various **aggregate operations** on the data returned from **collections, arrays, Input/Output** operations. 
 
