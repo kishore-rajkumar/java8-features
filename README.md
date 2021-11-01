@@ -44,6 +44,9 @@ Stream API is another new feature of java 8. All the classes and interfaces of t
 
 By using streams we can perform various **aggregate operations** on the data returned from **collections, arrays, Input/Output** operations. 
 
+## 6. Stream Filter
+
+The filter() is an intermediate operation that reads the data from a stream and returns a new stream after transforming the data based on the given condition. 
 
 
 
