@@ -49,4 +49,7 @@ By using streams we can perform various **aggregate operations** on the data ret
 The filter() is an intermediate operation that reads the data from a stream and returns a new stream after transforming the data based on the given condition. 
 
 
+## 7. forEach() Method
+
+Java 8 introduced forEach method to iterate over collections and Streams in Java. In this guide, we will learn how to use forEach() and forEachOrdered() methods to loop a particular collection and stream.
 
