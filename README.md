@@ -59,3 +59,9 @@ Java 8 introduced forEach method to iterate over collections and Streams in Java
 Collectors is a final class that extends the Object class. 
 
 Here, we will see the examples of Java Stream collectors class using lambda expressions, Java Streams and other new features of Java 8.
+
+## 9. StringJoiner
+
+In java 8, a new class StringJoiner is introduced in the java.util package.
+
+Using this class we can join more than one strings with the specified delimiter, we can also provide prefix and suffix to the final string while joining multiple strings. 
