@@ -53,3 +53,9 @@ The filter() is an intermediate operation that reads the data from a stream and 
 
 Java 8 introduced forEach method to iterate over collections and Streams in Java. In this guide, we will learn how to use forEach() and forEachOrdered() methods to loop a particular collection and stream.
 
+
+## 8. Collectors
+
+Collectors is a final class that extends the Object class. 
+
+Here, we will see the examples of Java Stream collectors class using lambda expressions, Java Streams and other new features of Java 8.
