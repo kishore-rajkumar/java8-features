@@ -65,3 +65,11 @@ Here, we will see the examples of Java Stream collectors class using lambda expr
 In java 8, a new class StringJoiner is introduced in the java.util package.
 
 Using this class we can join more than one strings with the specified delimiter, we can also provide prefix and suffix to the final string while joining multiple strings. 
+
+## 10. Optional Class
+
+Optional class was newly introduced in java 8 inside **java.util** package.
+
+This class is introduced **to avoid NullPointerException** that we frequently encounters if we do not perform null checks in our code. 
+
+Using this class we can easily check whether a variable has null value or not and by doing this we can avoid the NullPointerException.
