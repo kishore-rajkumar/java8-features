@@ -73,3 +73,10 @@ Optional class was newly introduced in java 8 inside **java.util** package.
 This class is introduced **to avoid NullPointerException** that we frequently encounters if we do not perform null checks in our code. 
 
 Using this class we can easily check whether a variable has null value or not and by doing this we can avoid the NullPointerException.
+
+
+## 11. Arrays Parallel Sort
+
+Java 8 introduced a new method **parallelSort() in the Arrays class** of **java.util** package. 
+
+This method is introduced to support the parallel sorting of array elements.
